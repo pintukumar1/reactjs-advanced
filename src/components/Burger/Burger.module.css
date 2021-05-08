@@ -8,7 +8,7 @@
     font-size: 1.2 rem;
 }
 
-@media (min-width: 500px) and (min-height: 400px){
+ @media (min-width: 500px) and (min-height: 400px){
     .Burger {
         height: 300px;
         width: 350px;
@@ -20,11 +20,11 @@
         height: 400px;
         width: 450px;
     }
-}
+} 
 
-@media (min-width: 1000px) and (min-height: 700px){
+ @media (min-width: 1000px) and (min-height: 700px){
     .Burger {
         height: 600px;
         width: 700px;
     }
-}
+} 
